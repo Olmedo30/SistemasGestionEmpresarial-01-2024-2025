@@ -1,2 +1,2 @@
 # SistemasGestionEmpresarial-01-2024-2025
-Repositorio del módulo de Sistemas de gestión empresarial de 2º de DAM.
+Tema 1 de gestión y administración de empresas de 2º de DAM en el IES Ribera del Tajo
